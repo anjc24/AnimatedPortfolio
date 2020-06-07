@@ -1,0 +1,46 @@
+@media(max-width:768px) {
+    div.type-wrap {
+        font-size: 20px;
+    }
+
+    .navbar-expand-md .navbar-nav {
+        margin-left: 0;
+        text-align: center;
+        background-color: #000000;
+
+    }
+
+    .navbar-brand {
+        padding: 10px;
+    }
+
+    .toggle {
+        display: block;
+    }
+
+    .about i {
+        font-size: 50px;
+        padding: 10px
+    }
+
+    .owl-carousel .owl-item img {
+        width: 100%;
+    }
+
+    .single-promo {
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    .footer img {
+        width: 80%;
+    }
+
+    .footer i {
+        padding: 12px;
+    }
+    image img{
+        width: 20vh;
+        height:20vh
+      }
+}
